@@ -1,0 +1,6 @@
+c:\users\ilia\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\ilia\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\ilia\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\ilia\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\ilia\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
