@@ -11,7 +11,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             string operation = "";
-            Calculator calculator = new Calculator();
+            CalculatorClass calculator = new CalculatorClass();
 
             Console.WriteLine("SIMPLE CSHARP CALCULATOR CREATED BY IVALCHENKO:");
 
