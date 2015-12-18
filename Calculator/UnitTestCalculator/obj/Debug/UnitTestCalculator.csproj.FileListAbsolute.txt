@@ -1,6 +1,0 @@
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.csprojResolveAssemblyReference.cache
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
-C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb
