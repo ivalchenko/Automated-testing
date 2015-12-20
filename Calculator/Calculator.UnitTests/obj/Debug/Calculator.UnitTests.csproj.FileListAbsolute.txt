@@ -1,0 +1,28 @@
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\Calculator.exe
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\nunit.core.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\nunit.util.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\Calculator.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\Calculator\Calculator.UnitTests\bin\Debug\nunit.framework.xml
+D:\Calculator_old\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csprojResolveAssemblyReference.cache
+D:\Calculator_old\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.dll
+D:\Calculator_old\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.pdb
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.pdb
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\Calculator.exe
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\nunit.core.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\nunit.core.interfaces.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\nunit.framework.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\nunit.util.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\Calculator.pdb
+D:\Calculator_old\Calculator.UnitTests\bin\Debug\nunit.framework.xml

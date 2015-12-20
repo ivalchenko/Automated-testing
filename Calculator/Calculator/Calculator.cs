@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    public static class CalculatorClass
+    public static class Calculator
     {
         public static int Calculate(string operation)
         {
@@ -33,13 +33,15 @@ namespace Calculator
             if (operation.Contains('/'))
             {
                 SetValueToOperands(operation, '/', ref operand1, ref operand2);
+
+
                 return operand1 / operand2;
             }
-
 
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("\nERROR: Invalid operation!");
             Console.ResetColor();
+
             return 0;
         }
 

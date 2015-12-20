@@ -42,7 +42,7 @@ namespace Calculator
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.Write("Result: ");
                 Console.ResetColor();
-                Console.Write(CalculatorClass.Calculate(operation));
+                Console.Write(Calculator.Calculate(operation));
             }
 
             Console.ForegroundColor = ConsoleColor.Cyan;
